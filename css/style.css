@@ -116,6 +116,7 @@ a:hover{
 	transition: color 1s ease, background-color 1s ease;
 	opacity: 0.8;
 	background-color: #FFF !important;
+	border-bottom: none !important;
 }
 
 .nav a{
@@ -135,28 +136,6 @@ a:hover{
 .navbar-default .navbar-nav .active a, .navbar-default .navbar-nav .active a:hover{
 	background-color: #ea0079 !important;
 	color: #FFF !important;
-}
-
-
-
-
-
-.navbar-top-style{
-	border-bottom: 1px solid #FFF !important;	
-	background-color: transparent !important;	
-	color: #FFF !important;
-}
-
-.navbar-top-style .nav a{
-	color: #FFF !important;
-}
-
-.navbar-top-style .navbar-brand{
-	color: #FFF !important;
-}
-
-.navbar-top-style .navbar-toggle .icon-bar{
-	background-color: #FFF !important;
 }
 
 
