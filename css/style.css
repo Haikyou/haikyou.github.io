@@ -1,3 +1,7 @@
+html{
+	overflow-y: scroll;
+}
+
 body, form, label, input, button{
 	font-family: 'Open Sans', 'Helvetica Neue', Helvetica, Arial, sans-serif !important;
 	font-weight: 300;
